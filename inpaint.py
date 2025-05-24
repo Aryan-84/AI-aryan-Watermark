@@ -1,0 +1,1 @@
+# AI inpainting logic placeholder
